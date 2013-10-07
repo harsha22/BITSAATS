@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<title>BITSAA</title>
+	<link rel="stylesheet" href="bootstrap.css">
+ 
+</head>
+<br>
+<body>
+	<div class=""container"">
+		 <h1> <a href="http://www.bitsaa.org">BITSAA Travel Scholarships and Loan portal</a></h1>
+	  
+		 
+	  <div class="navbar">
+		<div class="navbar-inner">
+			<div class="container">
+		    <ul class="nav">
+		   <li><a href="#">Home</a></li>
+		   <li><a href="#">Projects</a></li>
+		   <li><a href="#">Services</a></li>
+		   <li><a href="#">Downloads</a></li>
+		   <li><a href="#">About</a></li>
+		   <li><a href="#">Contact</a></li>
+	   </ul>
+   </div>
+   </div>
+   </div>
+     <div class="row">
+           <div class="span11">
+                     
+		 <div class="hero-unit">
+                            	
+			<div id="carousel-example-generic" class="carousel slide">
+                     <!-- Indicators -->
+                    
+
+  <!-- Wrapper for slides -->
+                 
+                  <div class="carousel-inner">
+                   <div class="item active"><img src="01.jpg" alt="1"></div>
+                   <div class="item"><img src="Untitled.jpg" alt="2"></div>
+                   <div class="item"><img src="03.jpg" alt="3"></div>
+                   <div class="item"><img src="04.jpg" alt="4"></div>
+                  </div>
+                   
+
+  <!-- Controls -->
+      
+   <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+   <img src="left.png">
+     </a>
+      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+   <img src="right.png">
+     </a>
+ 
+       
+</div>		
+	 </div>         		
+	        
+		
+    </div>
+		
+	     
+	         <div class="span5">
+				 <div class="hero-unit">
+					 <form class="form-control">
+						 Username:<br>
+					<div class="col-lg-4">
+						<input class="form-control input-lg" type="text" name="username" placeholder="Email id"><br>
+						</div>
+						Password:
+						<br>
+					<input type="password" class="form-control input-lg" name="password" placeholder="password"><br>
+					<label class="checkbox">
+						
+						<input type="checkbox" value="remember-me">
+						Remember me </label><br>
+					<button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+					<br>	<a href="#">Can't access your account?</a>
+				</form>
+		 </div>
+		 </div>
+	</div>
+
+</div>
+  <script src="http://code.jquery.com/jquery-1.10.1.js"></script>	   
+  <script src="bootstrap.js"></script>
+ </body>
+</html>
